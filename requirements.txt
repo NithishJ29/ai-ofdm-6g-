@@ -1,0 +1,5 @@
+
+tensorflow==2.13.0
+numpy>=1.23
+matplotlib>=3.7
+sionna>=0.15
